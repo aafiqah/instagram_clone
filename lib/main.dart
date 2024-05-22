@@ -15,6 +15,7 @@ void main() async {
         messagingSenderId: '636073620275',
         projectId: 'instagram-clone-55427',
         storageBucket: 'instagram-clone-55427.appspot.com',
+        authDomain: "instagram-clone-55427.firebaseapp.com",
       ),
     );
   } else {
